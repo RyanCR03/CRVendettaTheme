@@ -9,10 +9,10 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#ffe650", "#ffe650", "#ffe650"]
+    "HEADER_PRIMARY": ["#64ce4e", "#3c9943", "#202033"]
   },
   "rawColors": {
-    "PRIMARY_500": "#ffe650"
+    "PRIMARY_500": "#64ce4e"
   },
   "background": {
     "blur": 0.6,
