@@ -1,0 +1,22 @@
+{
+  "name": "Template",
+  "description": "Template",
+  "authors": [
+    {
+      "name": "RyanCR",
+      "id": "1068030255455015013"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#3c9943", "#202033", "#ffe650"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#64ce4e"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://raw.githubusercontent.com/RyanCR03/RyanCR03/main/96123.jpg",
+    "alpha": 0.4
+  }
+}
