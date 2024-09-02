@@ -12,7 +12,7 @@
     "HEADER_PRIMARY": ["#64ce4e", "#3c9943", "#ffe650"]
   },
   "rawColors": {
-    "PRIMARY_500": "#64ce4e"
+    "PRIMARY_500": "#3c9943"
   },
   "background": {
     "blur": 0.6,
